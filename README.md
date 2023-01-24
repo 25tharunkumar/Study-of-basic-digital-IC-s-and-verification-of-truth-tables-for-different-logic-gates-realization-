@@ -68,7 +68,8 @@ RTL realization
 Output:
 
 RTL![image](https://user-images.githubusercontent.com/123470785/214304995-0988edf3-1057-4e56-8de2-2974e811c368.png)
-WAVEFORM
+WAVEFORM![image](https://user-images.githubusercontent.com/123470785/214305441-d70bf116-10f5-496c-bf07-567f6b348776.png)
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
